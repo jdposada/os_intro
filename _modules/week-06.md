@@ -2,8 +2,10 @@
 title: Week 6
 ---
 
-August 30 - September 1st
+August 30  
 : CPU Scheduling
     : [Slides]()
-: Detailed Overview of the Final Project
+
+September 1st
+: **Project**{: .label .label-green } Detailed Overview of the Final Project
     : [Final Project Document]()

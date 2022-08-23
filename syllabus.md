@@ -112,23 +112,9 @@ Please let me know if you have any documented conditions and we will do our best
 
 ## References and links
 
-### Links
-
-Below some links for further reading
-
-- https://research.google.com/colaboratory/ 
-- https://stackoverflow.com/ 
-- https://www.w3schools.com/python/ 
-- [PlantUML language specification](https://plantuml.com/class-diagram)
-
 ### Books
 
 When Web is specified the book is availble online through [Uninorte Sibila](https://www.uninorte.edu.co/en/web/biblioteca/biblioteca)
 
-- **Course TextBook:** LOTT, Steven y PHILLIPS, Dusty. Python Object-Oriented Programming: Build robust and maintainable object-oriented Python applications and libraries, Fourth Edition, 2021 [Amazon link](https://www.amazon.com/Python-Object-Oriented-Programming-maintainable-object-oriented-ebook-dp-B094DJYLTV/dp/B094DJYLTV/ref=mt_other?_encoding=UTF8&me=&qid=1643818230)
-- Kak, Avinash C. Designing with Objects. 1st ed. New York: Wiley, 2014. Web. 
-- Gomaa, Hassan. Software Modeling and Design. Vol. 9780521764148. New York: Cambridge UP, 2011. Web. 
-- Lee, Graham. Modern Programming. Birmingham: Packt, Limited, 2019. Web. 
-- Prudhomme, Gerard. Software and Systems Modeling. Ashland: Arcler, 2019. Web. 
-- Bain, Scott L. The Design Patterns Companion. Chicago: Project Management Institute, 2020. Web. 
-- Software Engineering at Google. https://abseil.io/resources/swe-book  
+- **Course TextBook:** Silberschatz, Abraham., Gagne, Greg, Galvin, Peter B, and Vuelapluma Tr. Fundamentos De Sistemas Operativos. 7th ed. Madrid, Esp.: McGraw-Hill ; Interamericana, 2006. Print.
+- Garg R, Verma G. Operating Systems : An Introduction. Mercury Learning & Information; 2017. Available from: [Uninorte Library link](https://search-ebscohost-com.ezproxy.uninorte.edu.co/login.aspx?direct=true&db=e000xww&AN=1809145&lang=es&site=ehost-live)

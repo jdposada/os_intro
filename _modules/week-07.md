@@ -2,9 +2,8 @@
 title: Week 7
 ---
 
-September 6
-: Properties and Decorators
+September 6 - 8
+: Process Syncronization
+    : [Slides]()
 
-September 8
-: **Section**{: .label .label-purple } Abstract Base Classes
 

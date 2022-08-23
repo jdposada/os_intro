@@ -2,8 +2,5 @@
 title: Week 12
 ---
 
-October 11
-: **Recess Week**
-
-October 12
-: **Recess Week**
+October 11 - 12
+: **Section**{: .label .label-blue } **Recess Week**

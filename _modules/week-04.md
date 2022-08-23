@@ -2,9 +2,6 @@
 title: Week 4
 ---
 
-August 16
-: Python Packages and Modules Practice
-  : [Class GitHub](https://github.com/jdposada/oop_202230)
-
-August 18
-: **Section**{: .label .label-purple } Objects in Python, Packages and Modules
+August 16 - 18
+: Intro to Processes
+  : [Slides](https://uninorte-my.sharepoint.com/:p:/g/personal/jposada_uninorte_edu_co/EewY2w0IbV9IkBjG5v7tBtwBWWm-0GtRVqJ-7pHEDdH9Eg?e=kmq1Yr)

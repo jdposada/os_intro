@@ -14,9 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Object Oriented Programming
-tagline: Intro to Object Oriented Programming
-description: An Intro to Object Oriented Programming
+title: Operating Systems
+tagline: Operating Systems
+description: An Intro to Operating Systems
 author: Jose D. Posada
 baseurl: '/os_intro' # the subpath of your site, e.g. /blog
 url: 'https://jdposada.github.io' # the base hostname & protocol for your site, e.g. http://example.com
